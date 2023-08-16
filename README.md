@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Nodejs**
 
-- 👨‍💻 All of my projects are available at [Mahelchandupa](Mahelchandupa)
+- 👨‍💻 All of my projects are available at [Mahelchandupa](https://mahel.netlify.app/)
 
 - 📫 How to reach me **mahelchandupa1013@gmail.com**
 
