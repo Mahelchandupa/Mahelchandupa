@@ -1,3 +1,7 @@
+<p align=”center”>
+<img width=”200" height=”200" src=”https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1" alt=”my banner”>
+</p>
+
 ### Hi there 👋
 
 <!--
