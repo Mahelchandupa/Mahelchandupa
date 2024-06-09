@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mahel Chandupa<img align="right" width=70px height=70px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /></h1>
 <!-- <h3 align="center">Undergraduate Software Engineering Student with a passion for coding and problem-solving.</h3> -->
+<picture> <!--<img align="right" src="https://camo.githubusercontent.com/91c7a43399e63e18b0bda809b2ac203d159b06b07c91ac1f9b1cadbc38998504/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966" width="100%" height="300">-->
+<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif"/>
+
+</picture>
+<!--<picture><img align="right" src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" width="100%" height="300"></picture>-->
+
 <h4 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=100&lines=Undergraduate+Software+Engineering+Student;Full+Stack+Developer;Frontend+Developer;Backend+Developer;Always+learning+new+things"></a>
 </h4>
-
-<picture> <img align="right" src="https://camo.githubusercontent.com/91c7a43399e63e18b0bda809b2ac203d159b06b07c91ac1f9b1cadbc38998504/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966" width="100%" height="300"></picture>
-<!--<picture><img align="right" src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" width="100%" height="300"></picture>-->
-
 
  <!-- <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="Banner" width="100%" height="300"> -->
  
@@ -14,6 +16,8 @@
 <!-- <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌐 &nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,6 +43,14 @@
 
 
 
+<h3> ⚙️ &nbsp;GitHub Analytics </h3>
+
+<p align="center">
+<a href="https://github.com/Mahelchandupa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahelchandupa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mahelchandupa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
