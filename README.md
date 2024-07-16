@@ -32,6 +32,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java)
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?style=for-the-badge&logo=Springboot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-094706?style=for-the-badge&logo=mongodb)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
 
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
